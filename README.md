@@ -39,4 +39,4 @@ Insights
 
 4.Spending Patterns: On average, two people spend around 300 rupees.
 
-5.Customer Preferences: Dining restaurants tend to attract more in-person customers, while cafés see a higher volume of online orders.
+5.Customer Preferences: Dining restaurants tend to attract more in-person customers, while cafes see a higher volume of online orders.
