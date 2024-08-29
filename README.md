@@ -7,7 +7,7 @@ Essential libraries such as Pandas, NumPy, Matplotlib, and Seaborn were used for
 
 
 Creating the DataFrame: 
-         Loaded the dataset into a Pandas DataFrame for exploration and analysis.
+Loaded the dataset into a Pandas DataFrame for exploration and analysis.
 
 
 Data Cleaning and Processing: 
@@ -15,6 +15,7 @@ Conducted thorough data cleaning to ensure quality by handling missing or null v
 
 
 Analysis and Visualizations:
+
 1.Types of Restaurants:Used Seaborn to visualize the distribution of various restaurant types.
 
 2.Customer Ratings: Analyzed ratings using Matplotlib to understand customer satisfaction levels.
@@ -25,6 +26,7 @@ Analysis and Visualizations:
 
 
 Insights
+
 1.Restaurant Categories: A significant portion of the restaurants falls under the sit-down category.
 
 2.Revenue Insights: Dining restaurants receive the most votes, indicating that this category is a strong revenue-generating segment.
