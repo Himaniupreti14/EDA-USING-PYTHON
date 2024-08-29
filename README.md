@@ -31,12 +31,12 @@ Analysis and Visualizations:
 
 Insights
 
-1.Restaurant Categories: A significant portion of the restaurants falls under the sit-down category.
+1.Restaurant Categories: A significant portion of the restaurants falls under the dining category.
 
 2.Revenue Insights: Dining restaurants receive the most votes, indicating that this category is a strong revenue-generating segment.
 
 3.Customer Ratings: The majority of ratings range between 3.5 and 4, suggesting generally positive customer feedback.
 
-4.Spending Patterns: On average, two people spend around 300 rupees per visit.
+4.Spending Patterns: On average, two people spend around 300 rupees.
 
 5.Customer Preferences: Dining restaurants tend to attract more in-person customers, while cafés see a higher volume of online orders.
