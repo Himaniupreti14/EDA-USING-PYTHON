@@ -1,16 +1,20 @@
 Objective:
+
 Analyze the Zomato dataset containing customer data to perform Exploratory Data Analysis (EDA) and data visualization, providing actionable insights into customer behavior and restaurant trends.
 
 Process Overview
 Importing Libraries:
+
 Essential libraries such as Pandas, NumPy, Matplotlib, and Seaborn were used for data manipulation, analysis, and visualization.
 
 
 Creating the DataFrame: 
+
 Loaded the dataset into a Pandas DataFrame for exploration and analysis.
 
 
 Data Cleaning and Processing: 
+
 Conducted thorough data cleaning to ensure quality by handling missing or null values and standardizing data formats.
 
 
