@@ -7,7 +7,7 @@ Essential libraries such as Pandas, NumPy, Matplotlib, and Seaborn were used for
 
 
 Creating the DataFrame: 
-Loaded the dataset into a Pandas DataFrame for exploration and analysis.
+         Loaded the dataset into a Pandas DataFrame for exploration and analysis.
 
 
 Data Cleaning and Processing: 
